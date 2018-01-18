@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "These are the necessary dependencies for the LIRI-node-app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupertromeo/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Manuel Romo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupertromeo/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/rupertromeo/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
