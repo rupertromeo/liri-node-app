@@ -25,4 +25,4 @@ TWITTER_ACCESS_TOKEN_KEY=YOUR-KEY-HERE
 TWITTER_ACCESS_TOKEN_SECRET=YOUR-KEY-HERE
 ```
 
-Once you have completed installing packages and creating your .env file, you will run the 'node liri' plus the command that you want it to perform and it should return to you the desiredinformation that you want. It is important to mention that because LIRI is accessing APIs, you must have an internet connection for it to properly function. Without an internet connection, you will not receive the information that you are looking for.
+Once you have completed installing packages and creating your .env file, you will run the 'node liri' plus the command that you want it to perform and it should return to you the desired information that you want. It is important to mention that because LIRI is accessing APIs, you must have an internet connection for it to properly function. Without an internet connection, you will not receive the information that you are looking for.
